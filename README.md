@@ -9,6 +9,6 @@ https://github.com/Anonoei/klipper_auto_speed
 https://klipperbackup.xyz/
 
 # OctoEverywhere
-octoeverywhere.com/
+https://octoeverywhere.com/
 
 # Klicky Probe
